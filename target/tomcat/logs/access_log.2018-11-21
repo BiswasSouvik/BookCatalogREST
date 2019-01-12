@@ -1,0 +1,7 @@
+127.0.0.1 - - [21/Nov/2018:10:52:02 +0530] "POST /bookCatalogREST/bookcatalog/add HTTP/1.1" 500 3787 http-bio-8081-exec-1 49236
+127.0.0.1 - - [21/Nov/2018:10:53:58 +0530] "POST /bookCatalogREST/bookcatalog/add HTTP/1.1" 200 53 http-bio-8081-exec-2 6888
+127.0.0.1 - - [21/Nov/2018:10:55:18 +0530] "GET /bookCatalogREST/bookcatalog/findall HTTP/1.1" 200 55 http-bio-8081-exec-4 79
+127.0.0.1 - - [21/Nov/2018:11:43:51 +0530] "GET /bookCatalogREST/bookcatalog/find/book1 HTTP/1.1" 200 53 http-bio-8081-exec-6 422
+127.0.0.1 - - [21/Nov/2018:11:44:40 +0530] "POST /bookCatalogREST/bookcatalog/edit HTTP/1.1" 200 61 http-bio-8081-exec-7 375
+127.0.0.1 - - [21/Nov/2018:11:44:47 +0530] "GET /bookCatalogREST/bookcatalog/find/book1 HTTP/1.1" 200 61 http-bio-8081-exec-8 8
+127.0.0.1 - - [21/Nov/2018:11:58:12 +0530] "DELETE /bookCatalogREST/bookcatalog/delete/book1 HTTP/1.1" 200 - http-bio-8081-exec-10 2395

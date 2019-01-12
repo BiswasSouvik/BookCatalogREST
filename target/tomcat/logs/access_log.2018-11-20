@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [20/Nov/2018:18:47:21 +0530] "POST /bookCatalogREST/bookcatalog/addCat HTTP/1.1" 404 949 http-bio-8081-exec-2 443
+0:0:0:0:0:0:0:1 - - [20/Nov/2018:18:47:52 +0530] "POST /bookCatalogREST/bookcatalog/add HTTP/1.1" 200 53 http-bio-8081-exec-3 4555
